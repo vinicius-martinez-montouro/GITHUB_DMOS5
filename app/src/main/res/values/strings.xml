@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GITHUB_DMOS5</string>
+    <string name="user_name_txt">Nome do usuario</string>
+    <string name="search_txt">Buscar</string>
+    <string name="api_error_msg">"Ocorreu um na busca dos repositórios"</string>
+    <string name="resquest_permission_msg">Para fazer a busca é preciso acessar a internet</string>
+    <string name="request_permission_ok_msg">Permitir</string>
+    <string name="request_permission_not_msg">Negar</string>
+    <string name="empty_repository_name_msg">É preciso definir um repositório!</string>
+    <string name="repositories_found_text">Repositórios Encontrados</string>
+    <string name="repositories_not_found">Nenhum repositório encontrado</string>
+    <string name="repository_not_found">Repositório não encontrado</string>
+</resources>

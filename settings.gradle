@@ -1,0 +1,2 @@
+rootProject.name='GITHUB_DMOS5'
+include ':app'
